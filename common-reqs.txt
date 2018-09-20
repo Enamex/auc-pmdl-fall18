@@ -1,0 +1,8 @@
+# This's an informal list, not a valid requirements.txt
+
+numpy
+scipy
+opencv2
+tensorflow
+pytorch
+sklearn
